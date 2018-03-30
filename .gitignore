@@ -1,0 +1,14 @@
+*.p
+*.txt
+*.hdf5
+*.pyc
+*.jpg
+*.json
+*.png
+*.pyx
+*.meta
+*.h5
+frameworkpython
+*.pyd
+*.npz
+*.ckpt*
